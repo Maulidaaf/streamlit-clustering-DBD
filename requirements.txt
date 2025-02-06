@@ -1,7 +1,7 @@
 streamlit
 pandas==1.4.4
 matplotlib==3.8.3
-seaborn==0.11.2
+seaborn==0.13.2
 folium==0.14.0
 plotly==5.14.1
 pip==21.2.4
