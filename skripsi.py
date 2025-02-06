@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import os
-os.system("pip install --upgrade matplotlib")
 import matplotlib.pyplot as plt
 import seaborn as sns
 import json
