@@ -7,3 +7,5 @@ plotly==5.14.1
 pip==21.2.4
 branca==0.6.0
 shapely==2.0.1
+streamlit-folium==0.12.1
+streamlit-option-menu==0.3.2
