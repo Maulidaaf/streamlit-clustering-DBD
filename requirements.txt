@@ -1,11 +1,11 @@
 streamlit
-pip
 pandas
 matplotlib
 seaborn
-folium
+folium==0.12.1
 plotly
 branca
 shapely
 streamlit-folium
 streamlit-option-menu
+openpyxl
