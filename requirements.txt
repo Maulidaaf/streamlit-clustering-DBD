@@ -3,7 +3,6 @@ pip
 pandas
 matplotlib
 seaborn
-json
 folium
 plotly
 branca
